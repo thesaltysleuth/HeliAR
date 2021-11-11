@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Larger than 100 MB
+/[P]ackages/com.ptc.vuforia.engine-10.2.5.tgz
+
